@@ -1,4 +1,4 @@
-<font size="4">Anime Streaming Website</font>
+<font size="10">Anime Streaming Website</font>
 
 This project is an Anime Streaming Website developed using HTML, CSS, JavaScript, and React.js. The website aims to provide users with a platform to stream and explore a wide range of anime content.
 
